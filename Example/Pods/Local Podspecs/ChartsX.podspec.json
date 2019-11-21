@@ -1,0 +1,22 @@
+{
+  "name": "ChartsX",
+  "version": "0.1.0",
+  "summary": "A short description of ChartsX.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RandunuK/ChartsX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RandunuK": "randunu.ksw@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/RandunuK/ChartsX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChartsX/Classes/**/*"
+}

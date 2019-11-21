@@ -1,0 +1,6 @@
+framework module ChartsX {
+  umbrella header "ChartsX-umbrella.h"
+
+  export *
+  module * { export * }
+}

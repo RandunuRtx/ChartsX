@@ -1,0 +1,16 @@
+PODS:
+  - ChartsX (0.1.0)
+
+DEPENDENCIES:
+  - ChartsX (from `../`)
+
+EXTERNAL SOURCES:
+  ChartsX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChartsX: 156b834f7f7938a416bdf2703c79226019a2f0b2
+
+PODFILE CHECKSUM: 0cb499992effd098e1b4483a8864b6efea60a1b9
+
+COCOAPODS: 1.8.4
